@@ -28,6 +28,13 @@ ___
   * Functionality: Outlines key functionalities and interactions.
 ___
 
+## Types of Wireframes
+  * Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+  * High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.  
+___
+
+![Project Airbnb Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2) , this is an example of high fidelity wireframes because it is more detailed and it's closer to the final design
+___
 
 
 
