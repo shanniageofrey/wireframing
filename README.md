@@ -47,35 +47,35 @@ Figma is the most recommended wireframing tool because it is cloud-based and off
 ___
 
 ## ✅ Benefits of Wireframing in Software Development
-* 1. Clarifies Requirements Early
+ 1. Clarifies Requirements Early
  * Helps stakeholders, designers, and developers visualize features before coding begins.
  * Reduces misunderstandings and scope creep.
 
-* 2. Improves User Experience (UX)
+ 2. Improves User Experience (UX)
  * Focuses on structure, flow, and usability without getting distracted by colors and visuals.
  * Encourages user-centered thinking from the start.
 
-* 3. Saves Time and Costs
+ 3. Saves Time and Costs
  * Easier and faster to revise wireframes than to rewrite code.
  * Identifies usability issues early, reducing rework in later stages.
 
-* 4. Supports Better Collaboration
+ 4. Supports Better Collaboration
  * Gives everyone (developers, designers, clients) a shared visual reference.
  * Promotes clearer feedback and alignment across teams.
 
-* 5. Acts as a Blueprint
+ 5. Acts as a Blueprint
  * Serves as a guide for UI design and development, defining layout and content hierarchy.
  * Helps developers understand what to build and where components go.
 
-* 6. Simplifies Client Communication
+ 6. Simplifies Client Communication
  * Clients can see and approve the structure before heavy design or development starts.
  * Builds trust and allows for faster sign-off.
 
-* 7. Enables Early Testing & Validation
+ 7. Enables Early Testing & Validation
  * Stakeholders or test users can review navigation, flow, and logic early on.
  * Makes room for adjustments based on real feedback.
 
-* 8. Reduces Project Risks
+ 8. Reduces Project Risks
  * Avoids investing time in features or layouts that don't work well.
  * Minimizes the risk of building the wrong solution.
 ___
