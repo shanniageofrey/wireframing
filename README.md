@@ -36,5 +36,16 @@ ___
 ![Project Airbnb Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2) , this is an example of high fidelity wireframes because it is more detailed and it's closer to the final design
 ___
 
+## ✅ Top Wireframing Tools (2025)
+ 1. Figma
+ 2. Adobe XD 
+ 3. Sketch (Mac only)
+ 4. Whimsical
+ 5. Marvel
+ 6. Penpot
+ 7. Wireframe.cc
+
+Figma is the most recommended wireframing tool because it is cloud-based and offers real-time collaboration, responsive design, tons of plugins, and its use case is from low-fidelity wireframes to full high-fidelity prototypes.
+___
 
 
