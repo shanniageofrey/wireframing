@@ -1,5 +1,5 @@
 # wireframing
-## What is wireframing ?
+## What is wireframing?
   * Wireframing is a crucial step in the design process, serving as a blueprint or skeletal framework of a website or application. It outlines the basic structure and layout without delving into detailed design elements like colors, fonts, or images.
 
 ## Importance of Wireframing in the Design Process
@@ -12,13 +12,22 @@
 * Saves Time and Resources:
     * Early detection of design flaws and usability issues saves time and resources that would be spent on revisions later in the design and development stages.
 * Provides a Clear Layout and Structure:
-    * Wireframes provide a clear and simple representation of the layout, allowing designers to plan the content placement and prioritize elements effectively.
+    Wireframes provide a clear and simple representation of the layout, enabling designers to plan content placement and prioritize elements effectively.
 * Enables Easy Modifications:
     * Making changes to a wireframe is quicker and less costly than altering a high-fidelity design or a developed product. This flexibility encourages experimentation and iterative improvement.
 * Guides the Design Process:
     * Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
 * Focuses on Functionality and User Experience:
-    * By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly. 
+    * By stripping away visual design elements, wireframes enable designers to focus on functionality and user experience, ensuring the product is intuitive and user-friendly. 
 ___
+
+## Key Elements in a Wireframe
+  * Layout Structure: Defines the arrangement of elements on the page.
+  * Navigation: Shows how users will move through the site or application.
+  * Content Placement: Indicates where text, images, and other content will be positioned.
+  * Functionality: Outlines key functionalities and interactions.
+___
+
+
 
 
